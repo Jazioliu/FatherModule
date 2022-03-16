@@ -1,0 +1,3 @@
+[submodule "ChildModule"]
+	path = ChildModule
+	url = git@github.com:Jazioliu/ChildModule.git
